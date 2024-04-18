@@ -1,5 +1,5 @@
 ---
-title: About
+title: Fonts
 layout: default
 ---
 
@@ -8,10 +8,20 @@ layout: default
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@100..900&display=swap" rel="stylesheet">
 
-<div style='font-family: Sarabun; font-weight: 100; font-size:24'>แปลกใจ นาฬีกา ฬ จุฬา</div>
-I am pretending this is an about page.
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+Thai:wght@100..900&display=swap" rel="stylesheet">
 
-# About
+Thai fonts come in varieties with and without 'heads'. Examples of fonts of both kinds are given below.
 
-This is a lot harder to set up than I thought it would be.
+## Samples of Common Thai Fonts
+- Fonts with 'heads'
+  - <div style='font-family: Sarabun; font-weight: 300'>Sarabun (สารบรรณ)</div>
+  - <div style='font-family: Noto Serif Thai; font-weight: 300'>Noto Serif Thai (โนโตเซริฟไทย)</div>
+- Fonts without 'heads'
+  - <div style='font-family: Kanit; font-weight: 300'>Kanit (คณิต)</div>
+  - <div style='font-family: Noto Sans Thai; font-weight: 300'>Noto Sans Thai (โนโตแซนส์ไทย)</div>
