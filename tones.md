@@ -170,6 +170,7 @@ In contrast, `high`- and `low`-class consonants can only take the first and seco
 Likewise, each `low`-class consonant can only be used, alone and in conjunction with the tone marks, to produce a total of three tones.
 
 <b style="text-align:right"> `live` syllable (`long` vowel) + `low`-class consonant </b>
+
 | Tone mark | (null) |<span id="invisible">x</span><span id="diacritic-presentation"> ่ </span>| <span id="invisible">x</span><span id="diacritic-presentation"> ้ </span>| 
 |:--|--|--|--|
 | Syllable | <span id="thai-text">คา</span> | <span id="thai-text">ค่า</span> | <span id="thai-text">ค้า</span> |
@@ -181,3 +182,14 @@ Likewise, each `low`-class consonant can only be used, alone and in conjunction 
 The above example is illustrated with the `high`-`low` pair <span id="thai-text">ข/ค</span>. Notice how, together, they are able to produce all five distinct tones, albeit in a manner more convoluted than with the `middle`-class consonants.
 
 <b style="text-align:right"> Licit tones in `live` syllables (`long` vowel), orthographic representations </b>
+
+| Tone | middle | low | falling | high | rising |
+|:--|--|--|--|--|--|--|
+| **/k/**: `middle`-class  | กา | ก่า | ก้า | ก๊า | ก๋า |
+|
+| **/kʰ/**: `low`-class | คา | | ค่า |ค้า  ||
+| **/kʰ/**: `high`-class | | ข่า | ข้า| | ขา |
+
+<br>
+
+Notice how there is overlap in the falling tone between the `low`-class consonant-tone mark 1 and the `high`-class consonant-tone mark 2 combinations. This can be a frequent source of spelling errors.
