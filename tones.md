@@ -16,7 +16,7 @@ layout: default
 
 Thai has five phonemic tones. They are, however, not represented straightforwardly in the orthography; there is no tone marker which can immediately tell the reader what tone the syllable it governs is meant to be pronounced with. The tone markers that do exist produce different tones depending on context. 
 
-Take as an example the first tone mark <span style='font-family: Sarabun; font-weight: 300'>ไม้เอก</span> /má:i è:k/, which looks like a small vertical dash above the consonant&nbsp;&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>  ่ </span>. In certain contexts, it produces a falling tone,
+Take as an example the first tone mark <span style='font-family: Sarabun; font-weight: 300'>ไม้เอก</span> /má:i è:k/, which looks like a small vertical dash above the consonant <span style='font-family: Sarabun; font-weight: 300, font-size:200%'>&nbsp;่</span>. In certain contexts, it produces a falling tone,
 
 > <span style='font-family: Sarabun; font-weight: 300'>ย่า</span>&nbsp;&nbsp;&nbsp;&nbsp;**/yâ:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *paternal grandmother*) 
 
@@ -26,7 +26,7 @@ and in others a low tone,
 
 <br>
 <br>
-There are four factors which affect the tone of the syllable, aside from the tone marks (&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>  ่ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>  ้ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>  ๊ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>  ๋ </span>). They are:
+There are four factors which affect the tone of the syllable, aside from the tone marks (&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>&nbsp;่</span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>&nbsp;้</span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>&nbsp;๊</span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:200%'>&nbsp;๋</span>). They are:
 
 
 1. Syllable type (`live`, `dead`)
