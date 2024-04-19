@@ -1,3 +1,4 @@
+
 ---
 title: Tones
 layout: default
@@ -161,17 +162,18 @@ In contrast, `high`- and `low`-class consonants can only take the first and seco
 <b style="text-align:right"> `live` syllable (`long` vowel) + `high`-class consonant </b>
 
 | Tone mark | (null) |<span id="invisible">x</span><span id="diacritic-presentation"> ่ </span>| <span id="invisible">x</span><span id="diacritic-presentation"> ้ </span>| 
-|:--|--|--|--|--|--|--|
+|:--|--|--|--|
 | Syllable | <span id="thai-text">ขา</span> | <span id="thai-text">ข่า</span> | <span id="thai-text">ข้า</span> |
 | Pronunciation | **/kʰǎ:/** | **/kʰà:/** | **/kʰâ:/** |
 | Tone | rising | low | falling |
+
 <br>
 
 Likewise, each `low`-class consonant can only be used, alone and in conjunction with the tone marks, to produce a total of three tones.
 
 <b style="text-align:right"> `live` syllable (`long` vowel) + `low`-class consonant </b>
 | Tone mark | (null) |<span id="invisible">x</span><span id="diacritic-presentation"> ่ </span>| <span id="invisible">x</span><span id="diacritic-presentation"> ้ </span>| 
-|:--|--|--|--|--|--|--|
+|:--|--|--|--|
 | Syllable | <span id="thai-text">คา</span> | <span id="thai-text">ค่า</span> | <span id="thai-text">ค้า</span> |
 | Pronunciation | **/kʰā:/** | **/kʰâ:/** | **/kʰá:/** |
 | Tone | middle | falling | high |
@@ -202,8 +204,8 @@ In `dead` syllables, `low`- and `high`-class consonants cannot take any tone mar
 
 
 <b style="text-align:right"> `dead` syllable (`short` vowel) + `low`-/`high`-class consonant </b>
-| Consonant class | `low` | `high`
-|:--|--|--|--|--|--|--|
+| Consonant class | `low` | `high` |
+|:--|--|--|
 | Syllable | <span id="thai-text">ขะ</span> | <span id="thai-text">คะ</span> | 
 | Pronunciation | **/kʰàʔ/** | **/kʰáʔ/** | 
 | Tone | low | high | 
@@ -213,15 +215,15 @@ In `dead` syllables, `low`- and `high`-class consonants cannot take any tone mar
 Tone determination is similar with `long` vowels. `low`-class consonants act the same, producing a low tone, but `high`-class consonants instead yield a falling tone:
 
 <b style="text-align:right"> `dead` syllable (`long` vowel) + `low`-/`high`-class consonant </b>
-| Consonant class | `low` | `high`
-|:--|--|--|--|--|--|--|
+| Consonant class | `low` | `high` |
+|:--|--|--|
 | Syllable | <span id="thai-text">ขาด</span> | <span id="thai-text">คาด</span> | 
 | Pronunciation | **/kʰà:t/** | **/kʰâ:t/** | 
 | Tone | low | falling | 
 
 
 
-## Leading <span id="thai-text">ห and อ</span>
+## Leading <span id="thai-text">ห and อ
 
 *In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as <span id="thai-text">ม</span> or <span id="thai-text">ก</span>).*
 
