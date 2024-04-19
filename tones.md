@@ -14,9 +14,6 @@ layout: default
     vertical-align: sub;
     font-family: Sarabun;
     font-weight: 100;
-    color: #000000;
-    background-color: #ffffff;
-   
 }
 
 #invisible {
@@ -25,7 +22,7 @@ layout: default
 
 #thai-text {
     font-family: Sarabun;
-	 font-weight: 300;
+    font-weight: 300;
 }
 
 </style>
