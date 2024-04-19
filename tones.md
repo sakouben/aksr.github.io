@@ -1,3 +1,4 @@
+
 ---
 title: Tones
 layout: default
@@ -49,7 +50,7 @@ There are four factors which affect the tone of the syllable, aside from the ton
 1. Syllable type (`live`, `dead`)
 2. Vowel length (`long`, `short`)
 3. Consonant class (`high`, `middle`, `low`)
-4. The presence or absence of the letters ห or อ before the syllable initial.
+4. The presence or absence of the letters <span id="thai-text">ห</span> or <span id="thai-text">อ</span> before the syllable initial.
 
 
 Each of these factors will be treated in order.
@@ -67,6 +68,19 @@ Each of these factors will be treated in order.
 | Approximant | /w/, /u/ |
 
 Syllables with nasal and approximant finals are referred to as `live` syllables, whereas plosive-final syllables are termed `dead` syllables.
+
+Importantly, `dead` syllables permit only a subset of the tones available to `live` syllables.
+
+#### Licit tones in `live` and `dead` syllables
+
+| Tone | `live` | `dead` |
+|:--|:--:|:--:|
+| Middle | ◯ | ╳ |
+| Low | ◯ | ◯ |
+| Falling | ◯ | ╳ |
+| High | ◯ | ◯ |
+| Rising | ◯ | ╳ |
+
 
 ## Vowel length
 
@@ -105,7 +119,11 @@ The three consonant classes are `high`, `middle`, and `low`. It is more useful t
 
 ### Middle-class consonants  
 
+#### `live` syllables
+
 In `live` syllables and without any tone-modifying <span id="thai-text">ห</span> or <span id="thai-text">อ</span> preceding the syllable initial, `middle`-class consonants produce the following tones:
+
+<b style="text-align:right"> `live` syllable (`long` or `short` vowel) + `middle`-class consonant </b>
 
 | Tone mark | (null) |<span id="invisible">x</span><span id="diacritic-presentation"> ่ </span>| <span id="invisible">x</span><span id="diacritic-presentation"> ้ </span>| <span id="invisible">x</span><span id="diacritic-presentation"> ๊ </span>|<span id="invisible">x</span><span id="diacritic-presentation"> ๋ </span>|
 |:--|--|--|--|--|--|--|
@@ -113,14 +131,19 @@ In `live` syllables and without any tone-modifying <span id="thai-text">ห</spa
 | Pronunciation | **/kā:/** | **/kà:/** | **/kâ:/** | **/ká:/** | **/kǎ:/** | 
 | Tone | middle | low | falling | high | rising |
 
+<br>
 
+#### `dead` syllables
 
-In `dead` syllables, `middle`-class consonants cannot take any tone mark.  In such cases, regardless of whether the vowel is `long` or `short`, the tone of the syllable will be low:
+In `dead` syllables, `middle`-class consonants cannot take any tone mark. In such cases, regardless of whether the vowel is `long` or `short`, the tone of the syllable will be low:
 
+> <span id="thai-text">กะ</span>&nbsp;&nbsp;&nbsp;&nbsp;**/kàʔ/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to estimate*)
+>
 > <span id="thai-text">กัด</span>&nbsp;&nbsp;&nbsp;&nbsp;**/kàt/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to bite*)
 >
 > <span id="thai-text">จาก</span>&nbsp;&nbsp;&nbsp;&nbsp;**/jà:k/**&nbsp;&nbsp;&nbsp;&nbsp;(prep., *from*)
 
+<br>
 
 ***NB*** In rare cases `middle`-class `dead` syllables can take the third tone mark `๊`. This give it the high tone. It occurs very frequently in loans, in particular English loans as well as in Thai-accented English, though transcriptions of these (such as in foreign names) often leave out the tone mark.
 
@@ -130,3 +153,77 @@ In `dead` syllables, `middle`-class consonants cannot take any tone mark.  In su
 
 
 ### High- and low-class consonants  
+
+#### `live` syllables
+
+In contrast, `high`- and `low`-class consonants can only take the first and second tone marks <span id="invisible">x</span><span id="diacritic-presentation"> ่ </span> and <span id="invisible">x</span><span id="diacritic-presentation"> ้ </span>, as well as no mark.  For this reason, each consonant in the `high` class is only able to be used to indicate three out of the five tones.
+
+
+<b style="text-align:right"> `live` syllable (`long` vowel) + `high`-class consonant </b>
+
+| Tone mark | (null) |<span id="invisible">x</span><span id="diacritic-presentation"> ่ </span>| <span id="invisible">x</span><span id="diacritic-presentation"> ้ </span>| 
+|:--|--|--|--|--|--|--|
+| Syllable | <span id="thai-text">ขา</span> | <span id="thai-text">ข่า</span> | <span id="thai-text">ข้า</span> |
+| Pronunciation | **/kʰǎ:/** | **/kʰà:/** | **/kʰâ:/** |
+| Tone | rising | low | falling |
+<br>
+
+Likewise, each `low`-class consonant can only be used, alone and in conjunction with the tone marks, to produce a total of three tones.
+
+<b style="text-align:right"> `live` syllable (`long` vowel) + `low`-class consonant </b>
+| Tone mark | (null) |<span id="invisible">x</span><span id="diacritic-presentation"> ่ </span>| <span id="invisible">x</span><span id="diacritic-presentation"> ้ </span>| 
+|:--|--|--|--|--|--|--|
+| Syllable | <span id="thai-text">คา</span> | <span id="thai-text">ค่า</span> | <span id="thai-text">ค้า</span> |
+| Pronunciation | **/kʰā:/** | **/kʰâ:/** | **/kʰá:/** |
+| Tone | middle | falling | high |
+
+<br>
+
+The above example is illustrated with the `high`-`low` pair <span id="thai-text">ข/ค</span>. Notice how, together, they are able to produce all five distinct tones, albeit in a manner more convoluted than with the `middle`-class consonants.
+
+<b style="text-align:right"> Licit tones in `live` syllables (`long` vowel), orthographic representations </b>
+
+| Tone | middle | low | falling | high | rising |
+|:--|--|--|--|--|--|--|
+| **/k/**: `middle`-class  | กา | ก่า | ก้า | ก๊า | ก๋า |
+|
+| **/kʰ/**: `low`-class | คา | | ค่า |ค้า  ||
+| **/kʰ/**: `high`-class | | ข่า | ข้า| | ขา |
+
+<br>
+
+Notice how there is overlap in the falling tone between the `low`-class consonant-tone mark 1 and the `high`-class consonant-tone mark 2 combinations. This can be a frequent source of spelling errors.
+
+
+***NB*** The sounds represented by the `middle`-class consonants never overlap with those represented by the `high` and `low`-class consonants. For example, **/d/** is represented only by <span id="thai-text">ด</span> and <span id="thai-text">ฎ</span>, which are both `middle`-class consonants. **/s/** is represented by <span id="thai-text">ส</span>, <span id="thai-text">ศ</span>, <span id="thai-text">ษ</span>, and <span id="thai-text">ซ</span>; the first three are `high`-class consonants, while the last is a `low`-class consonant.
+
+#### `dead` syllables
+
+In `dead` syllables, `low`- and `high`-class consonants cannot take any tone markers. Since `dead` syllables only permit the low and high tones this is not an issue, though due to naming conventions it is somewhat confusing; `low`-class consonants in `dead` syllables produce the high tone, while `high`-class consonants in `dead` syllables produce the low tone with `short` vowel nuclei.
+
+
+<b style="text-align:right"> `dead` syllable (`short` vowel) + `low`-/`high`-class consonant </b>
+| Consonant class | `low` | `high`
+|:--|--|--|--|--|--|--|
+| Syllable | <span id="thai-text">ขะ</span> | <span id="thai-text">คะ</span> | 
+| Pronunciation | **/kʰàʔ/** | **/kʰáʔ/** | 
+| Tone | low | high | 
+
+<br>
+
+Tone determination is similar with `long` vowels. `low`-class consonants act the same, producing a low tone, but `high`-class consonants instead yield a falling tone:
+
+<b style="text-align:right"> `dead` syllable (`long` vowel) + `low`-/`high`-class consonant </b>
+| Consonant class | `low` | `high`
+|:--|--|--|--|--|--|--|
+| Syllable | <span id="thai-text">ขาด</span> | <span id="thai-text">คาด</span> | 
+| Pronunciation | **/kʰà:t/** | **/kʰâ:t/** | 
+| Tone | low | falling | 
+
+
+
+## Leading <span id="thai-text">ห and อ
+
+*In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as <span id="thai-text">ม</span> or <span id="thai-text">ก</span>).*
+
+Certain initials are only represented in the orthography with a `low`-class consonant. Take for example **/m/**, which has only one letter associated with it: <span id="thai-text">ม</span>. We can draw out the associated tone table 
