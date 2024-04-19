@@ -16,17 +16,17 @@ layout: default
 
 Thai has five phonemic tones. They are, however, not represented straightforwardly in the orthography; there is no tone marker which can immediately tell the reader what tone the syllable it governs is meant to be pronounced with. The tone markers that do exist produce different tones depending on context. 
 
-Take as an example the first tone mark <span style='font-family: Sarabun; font-weight: 300'>ไม้เอก</span> /má:i è:k/, which looks like a small vertical dash above the consonant <span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ่ </span>. In certain contexts, it produces a falling tone,
+Take as an example the first tone mark <span style='font-family: Sarabun; font-weight: 300'>ไม้เอก</span> /má:i è:k/, which looks like a small vertical dash above the consonant&nbsp;&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ่ </span>. In certain contexts, it produces a falling tone,
 
-> ย่า&nbsp;&nbsp;&nbsp;&nbsp;**/yâ:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *paternal grandmother*) 
+> <span style='font-family: Sarabun; font-weight: 300'>ย่า</span>&nbsp;&nbsp;&nbsp;&nbsp;**/yâ:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *paternal grandmother*) 
 
 and in others a low tone,
 
-> ป่า&nbsp;&nbsp;&nbsp;&nbsp;**/pà:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *forest*)
+> <span style='font-family: Sarabun; font-weight: 300'>ป่า</span>&nbsp;&nbsp;&nbsp;&nbsp;**/pà:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *forest*)
 
 <br>
 <br>
-There are four factors which affect the tone of the syllable, aside from the tone marks (`่`, `้`, `๊`, `๋`). They are:
+There are four factors which affect the tone of the syllable, aside from the tone marks (&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ่ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ้ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ๊ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ๋ </span>). They are:
 
 
 1. Syllable type (`live`, `dead`)
@@ -39,7 +39,7 @@ Each of these factors will be treated in order.
 
 ## Syllable type
 
-*In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as ม or ก).*
+*In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as <span style='font-family: Sarabun; font-weight: 300'>ม</span> or <span style='font-family: Sarabun; font-weight: 300'>ก</span>).*
 
 "Syllable type" refers to the type of consonant in the syllable final. Thai has a very restricted set of sounds that can be used as syllable finals; these are /m/, /n/, /ŋ/, /p/, /t/, /k/, /ʔ/, /w/, and /u/. These can be grouped like so:
 
@@ -53,46 +53,46 @@ Syllables with nasal and approximant finals are referred to as `live` syllables,
 
 ## Vowel length
 
-*In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as ม or ก).*
+*In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as <span style='font-family: Sarabun; font-weight: 300'>ม</span> or <span style='font-family: Sarabun; font-weight: 300'>ก</span>).*
 
 Thai contrasts short and long vowels in its syllabic nuclei. 
 
-For the purposes of tone determination, syllables with short vowels are analysed, without exception, as always having a final consonant. If no consonant is ostensibly present in the final, such as may seem to be the case with words such as "กะ", comprised of ⟨ก⟩ /k/ and ⟨ะ⟩ /a/, a glottal stop /ʔ/ is the final.
+For the purposes of tone determination, syllables with short vowels are analysed, without exception, as always having a final consonant. If no consonant is ostensibly present in the final, such as may seem to be the case with words such as "<span style='font-family: Sarabun; font-weight: 300'>กะ</span>", comprised of ⟨<span style='font-family: Sarabun; font-weight: 300'>ก</span>⟩ /k/ and ⟨<span style='font-family: Sarabun; font-weight: 300'>ะ</span>⟩ /a/, a glottal stop /ʔ/ is the final.
 
-> ตำ&nbsp;&nbsp;&nbsp;&nbsp;**/tām/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to beat*)
-
-> เละ&nbsp;&nbsp;&nbsp;&nbsp;**/lé(+ʔ)/**&nbsp;&nbsp;&nbsp;&nbsp;(adj., *messy*)
+> <span style='font-family: Sarabun; font-weight: 300'>ตำ</span>&nbsp;&nbsp;&nbsp;&nbsp;**/tām/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to beat*)
+>
+> <span style='font-family: Sarabun; font-weight: 300'>เละ</span>&nbsp;&nbsp;&nbsp;&nbsp;**/lé(+ʔ)/**&nbsp;&nbsp;&nbsp;&nbsp;(adj., *messy*)
 
 Syllables with long vowels, in contrast, are allowed null codas.
 
-> ยา&nbsp;&nbsp;&nbsp;&nbsp;**/yā:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *medicine*)
+> <span style='font-family: Sarabun; font-weight: 300'>ยา</span>&nbsp;&nbsp;&nbsp;&nbsp;**/yā:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *medicine*)
 
 Vowel length only affects tone in `dead` syllables; in `live` syllables,  short-vowel and long-vowel versions of the same orthographic syllable are pronounced with the same tone.
 
 Compare `dead` syllables:
-> ราบ&nbsp;&nbsp;&nbsp;&nbsp;**/râ:p/**&nbsp;&nbsp;&nbsp;&nbsp;(adj., *smooth*)
-
-> รับ&nbsp;&nbsp;&nbsp;&nbsp;**/ráp/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to receive*)
+> <span style='font-family: Sarabun; font-weight: 300'>ราบ</span>&nbsp;&nbsp;&nbsp;&nbsp;**/râ:p/**&nbsp;&nbsp;&nbsp;&nbsp;(adj., *smooth*)
+>
+> <span style='font-family: Sarabun; font-weight: 300'>รับ</span>&nbsp;&nbsp;&nbsp;&nbsp;**/ráp/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to receive*)
 
 while `live` syllables:
-> รัง&nbsp;&nbsp;&nbsp;&nbsp;**/rāŋ/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *nest*)
-
-> ราง&nbsp;&nbsp;&nbsp;&nbsp;**/rā:ŋ/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *rails*)
+> <span style='font-family: Sarabun; font-weight: 300'>รัง</span>&nbsp;&nbsp;&nbsp;&nbsp;**/rāŋ/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *nest*)
+>
+> <span style='font-family: Sarabun; font-weight: 300'>ราง</span>&nbsp;&nbsp;&nbsp;&nbsp;**/rā:ŋ/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *rails*)
 
 
 ## Consonant classes
 
-*In this section, the word 'consonant' in isolation refers to an orthographic consonant (a letter representing a consonant, such as ม or ก), rather than a phonemic consonant (such as /m/ or /k/). The phonemic value of a consonant has no influence on tone; only its orthographic representation does.*
+*In this section, the word 'consonant' in isolation refers to an orthographic consonant (a letter representing a consonant, such as <span style='font-family: Sarabun; font-weight: 300'>ม</span> or <span style='font-family: Sarabun; font-weight: 300'>ก</span>), rather than a phonemic consonant (such as /m/ or /k/). The phonemic value of a consonant has no influence on tone; only its orthographic representation does.*
 
 The three consonant classes are `high`, `middle`, and `low`. It is more useful to think of this not as a three-way split, but rather as a dichotomy between `high` and `low`, with `middle`-class consonants existing outside of the two-way split. The `middle`-class consonants are less numerous than the other two, but function much more straightforwardly. We will therefore begin with them.
 
 ### Middle-class consonants  
 
-In `live` syllables and without any tone-modifying  ห or อ preceding the syllable initial, `middle`-class consonants produce the following tones:
+In `live` syllables and without any tone-modifying <span style='font-family: Sarabun; font-weight: 300'>ห</span> or <span style='font-family: Sarabun; font-weight: 300'>อ</span> preceding the syllable initial, `middle`-class consonants produce the following tones:
 
-| Tone mark | `(null)` | `่` | ` ้` | `๊` | `๋` |
+| Tone mark | `(null)` |&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ่ </span> | &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ้ </span>| &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ๊ </span>| &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:24px'> ๋ </span>|
 |:--|--|--|--|--|--|--|
-| Syllable | กา | ก่า | ก้า | ก๊า | ก๋า |
+| Syllable | <span style='font-family: Sarabun; font-weight: 300'>กา</span> | <span style='font-family: Sarabun; font-weight: 300'>ก่า</span> | <span style='font-family: Sarabun; font-weight: 300'>ก้า</span> | <span style='font-family: Sarabun; font-weight: 300'>ก๊า</span> | <span style='font-family: Sarabun; font-weight: 300'>ก๋า</span> |
 | Pronunciation | **/kā:/** | **/kà:/** | **/kâ:/** | **/ká:/** | **/kǎ:/** | 
 | Tone | middle | low | falling | high | rising |
 
@@ -100,15 +100,16 @@ In `live` syllables and without any tone-modifying  ห or อ preceding the syl
 
 In `dead` syllables, `middle`-class consonants cannot take any tone mark.  In such cases, regardless of whether the vowel is `long` or `short`, the tone of the syllable will be low:
 
-> กัด&nbsp;&nbsp;&nbsp;&nbsp;**/kàt/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to bite*)
-
-> จาก&nbsp;&nbsp;&nbsp;&nbsp;**/jà:k/**&nbsp;&nbsp;&nbsp;&nbsp;(prep., *from*)
+> <span style='font-family: Sarabun; font-weight: 300'>กัด</span>&nbsp;&nbsp;&nbsp;&nbsp;**/kàt/**&nbsp;&nbsp;&nbsp;&nbsp;(v., *to bite*)
+>
+> <span style='font-family: Sarabun; font-weight: 300'>จาก</span>&nbsp;&nbsp;&nbsp;&nbsp;**/jà:k/**&nbsp;&nbsp;&nbsp;&nbsp;(prep., *from*)
 
 
 ***NB*** In rare cases `middle`-class `dead` syllables can take the third tone mark `๊`. This give it the high tone. It occurs very frequently in loans, in particular English loans as well as in Thai-accented English, though transcriptions of these (such as in foreign names) often leave out the tone mark.
 
-> โจ๊ก&nbsp;&nbsp;&nbsp;&nbsp;**/jó:k/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *congee*, from Cantonese or Hakka 粥)
-> ตุ๊ก(ตา)&nbsp;&nbsp;&nbsp;&nbsp;**/túk/(/kà.tā:/)**&nbsp;&nbsp;&nbsp;&nbsp;(n., *doll*, possibly from Old Khmer តុក្តរ៑ / តុក្តរ)
+> <span style='font-family: Sarabun; font-weight: 300'>โจ๊ก</span>&nbsp;&nbsp;&nbsp;&nbsp;**/jó:k/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *congee*, from Cantonese or Hakka 粥)
+> 
+> <span style='font-family: Sarabun; font-weight: 300'>ตุ๊ก(ตา)</span>&nbsp;&nbsp;&nbsp;&nbsp;**/túk/(/kà.tā:/)**&nbsp;&nbsp;&nbsp;&nbsp;(n., *doll*, possibly from Old Khmer តុក្តរ៑ / តុក្តរ)
 
 
 ### High- and low-class consonants  
