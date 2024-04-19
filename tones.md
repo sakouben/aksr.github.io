@@ -193,3 +193,29 @@ The above example is illustrated with the `high`-`low` pair <span id="thai-text"
 <br>
 
 Notice how there is overlap in the falling tone between the `low`-class consonant-tone mark 1 and the `high`-class consonant-tone mark 2 combinations. This can be a frequent source of spelling errors.
+
+
+***NB*** The sounds represented by the `middle`-class consonants never overlap with those represented by the `high` and `low`-class consonants. For example, **/d/** is represented only by <span id="thai-text">ด</span> and <span id="thai-text">ฎ</span>, which are both `middle`-class consonants. **/s/** is represented by <span id="thai-text">ส</span>, <span id="thai-text">ศ</span>, <span id="thai-text">ษ</span>, and <span id="thai-text">ซ</span>; the first three are `high`-class consonants, while the last is a `low`-class consonant.
+
+#### `dead` syllables
+
+In `dead` syllables, `low`- and `high`-class consonants cannot take any tone markers. Since `dead` syllables only permit the low and high tones this is not an issue, though due to naming conventions it is somewhat confusing; `low`-class consonants in `dead` syllables produce the high tone, while `high`-class consonants in `dead` syllables produce the low tone with `short` vowel nuclei.
+
+
+<b style="text-align:right"> `dead` syllable (`short` vowel) + `low`-/`high`-class consonant </b>
+| Consonant class | `low` | `high` |
+|:--|--|--|
+| Syllable | <span id="thai-text">ขะ</span> | <span id="thai-text">คะ</span> | 
+| Pronunciation | **/kʰàʔ/** | **/kʰáʔ/** | 
+| Tone | low | high | 
+
+<br>
+
+Tone determination is similar with `long` vowels. `low`-class consonants act the same, producing a low tone, but `high`-class consonants instead yield a falling tone:
+
+<b style="text-align:right"> `dead` syllable (`long` vowel) + `low`-/`high`-class consonant </b>
+| Consonant class | `low` | `high` |
+|:--|--|--|
+| Syllable | <span id="thai-text">ขาด</span> | <span id="thai-text">คาด</span> | 
+| Pronunciation | **/kʰà:t/** | **/kʰâ:t/** | 
+| Tone | low | falling | 
