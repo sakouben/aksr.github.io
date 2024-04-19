@@ -16,7 +16,7 @@ layout: default
 
 Thai has five phonemic tones. They are, however, not represented straightforwardly in the orthography; there is no tone marker which can immediately tell the reader what tone the syllable it governs is meant to be pronounced with. The tone markers that do exist produce different tones depending on context. 
 
-Take as an example the first tone mark <span style='font-family: Sarabun; font-weight: 300'>ไม้เอก</span> /má:i è:k/, which looks like a small vertical dash above the consonant&nbsp;&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ่ </span>. In certain contexts, it produces a falling tone,
+Take as an example the first tone mark <span style='font-family: Sarabun; font-weight: 300'>ไม้เอก</span> /má:i è:k/, which looks like a small vertical dash above the consonant&nbsp;&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ่ </span>. In certain contexts, it produces a falling tone,
 
 > <span style='font-family: Sarabun; font-weight: 300'>ย่า</span>&nbsp;&nbsp;&nbsp;&nbsp;**/yâ:/**&nbsp;&nbsp;&nbsp;&nbsp;(n., *paternal grandmother*) 
 
@@ -26,7 +26,7 @@ and in others a low tone,
 
 <br>
 <br>
-There are four factors which affect the tone of the syllable, aside from the tone marks (&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ่ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ้ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ๊ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ๋ </span>). They are:
+There are four factors which affect the tone of the syllable, aside from the tone marks (&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ่ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ้ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ๊ </span>, &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ๋ </span>). They are:
 
 
 1. Syllable type (`live`, `dead`)
@@ -90,7 +90,7 @@ The three consonant classes are `high`, `middle`, and `low`. It is more useful t
 
 In `live` syllables and without any tone-modifying <span style='font-family: Sarabun; font-weight: 300'>ห</span> or <span style='font-family: Sarabun; font-weight: 300'>อ</span> preceding the syllable initial, `middle`-class consonants produce the following tones:
 
-| Tone mark | `(null)` |&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ่ </span> | &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ้ </span>| &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ๊ </span>| &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:32px'> ๋ </span>|
+| Tone mark | `(null)` |&nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ่ </span> | &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ้ </span>| &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ๊ </span>| &nbsp;<span style='font-family: Sarabun; font-weight: 300, font-size:40px'> ๋ </span>|
 |:--|--|--|--|--|--|--|
 | Syllable | <span style='font-family: Sarabun; font-weight: 300'>กา</span> | <span style='font-family: Sarabun; font-weight: 300'>ก่า</span> | <span style='font-family: Sarabun; font-weight: 300'>ก้า</span> | <span style='font-family: Sarabun; font-weight: 300'>ก๊า</span> | <span style='font-family: Sarabun; font-weight: 300'>ก๋า</span> |
 | Pronunciation | **/kā:/** | **/kà:/** | **/kâ:/** | **/ká:/** | **/kǎ:/** | 
