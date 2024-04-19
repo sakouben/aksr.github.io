@@ -203,6 +203,7 @@ In `dead` syllables, `low`- and `high`-class consonants cannot take any tone mar
 
 
 <b style="text-align:right"> `dead` syllable (`short` vowel) + `low`-/`high`-class consonant </b>
+
 | Consonant class | `low` | `high` |
 |:--|--|--|
 | Syllable | <span id="thai-text">ขะ</span> | <span id="thai-text">คะ</span> | 
@@ -214,8 +215,17 @@ In `dead` syllables, `low`- and `high`-class consonants cannot take any tone mar
 Tone determination is similar with `long` vowels. `low`-class consonants act the same, producing a low tone, but `high`-class consonants instead yield a falling tone:
 
 <b style="text-align:right"> `dead` syllable (`long` vowel) + `low`-/`high`-class consonant </b>
+
 | Consonant class | `low` | `high` |
 |:--|--|--|
 | Syllable | <span id="thai-text">ขาด</span> | <span id="thai-text">คาด</span> | 
 | Pronunciation | **/kʰà:t/** | **/kʰâ:t/** | 
 | Tone | low | falling | 
+
+
+
+## Leading <span id="thai-text">ห and อ </span>
+
+*In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as <span id="thai-text">ม</span> or <span id="thai-text">ก</span>).*
+
+Certain initials are only represented in the orthography with a `low`-class consonant. Take for example **/m/**, which has only one letter associated with it: <span id="thai-text">ม</span>. We can draw out the associated tone table 
