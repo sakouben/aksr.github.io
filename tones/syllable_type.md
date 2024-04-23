@@ -10,6 +10,10 @@ parent: Tones
 
 "Syllable type" refers to the type of consonant in the syllable final. Thai has a very restricted set of sounds that can be used as syllable finals; these are /m/, /n/, /ŋ/, /p/, /t/, /k/, /ʔ/, /w/, and /u/. These can be grouped like so:
 
+<br>
+
+#### Syllable codas
+
 |Manner of articulation| Finals |
 |:--|:--|
 | Nasal | /m/, /n/, /ŋ/ |
