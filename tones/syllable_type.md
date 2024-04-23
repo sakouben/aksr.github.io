@@ -4,7 +4,7 @@ layout: default
 parent: Tones
 ---
 
-## Syllable type
+# Syllable type
 
 *In this section, the word 'consonant' in isolation refers to a phonemic consonant (such as /m/ or /k/), rather than an orthographic consonant (a letter representing a consonant, such as <span id="thai-text">ม</span> or <span id="thai-text">ก</span>).*
 
@@ -19,6 +19,8 @@ parent: Tones
 Syllables with nasal and approximant finals are referred to as `live` syllables, whereas plosive-final syllables are termed `dead` syllables.
 
 Importantly, `dead` syllables permit only a subset of the tones available to `live` syllables.
+
+<br> 
 
 #### Licit tones in `live` and `dead` syllables
 
